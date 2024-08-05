@@ -1,6 +1,6 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.artem123456789.postmanagent</id>
+    <id>com.github.artem123456789.postmanplugin</id>
     <name>PostmanAgent</name>
     <vendor>neznajkin</vendor>
 
