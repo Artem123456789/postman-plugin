@@ -1,8 +1,8 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.artem123456789.postmanplugin</id>
+    <id>com.github.artem123456789.postmanagent</id>
     <name>PostmanAgent</name>
-    <vendor>artem123456789</vendor>
+    <vendor>neznajkin</vendor>
 
     <depends>com.intellij.modules.platform</depends>
 
@@ -11,6 +11,6 @@
     </extensions>
 
     <description>
-        Allows to open the site of Postman inside the IDE window
+        This plugin is designed in order to make possible to open the Postman's window and use it without leaving the IDE, which will allow users to speed up the development of their products
     </description>
 </idea-plugin>
