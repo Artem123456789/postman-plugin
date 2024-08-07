@@ -7,7 +7,12 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <toolWindow factoryClass="com.github.artem123456789.postmanplugin.toolWindow.MyToolWindowFactory" id="Postman"/>
+        <toolWindow
+                anchor="right"
+                factoryClass="com.github.artem123456789.postmanplugin.toolWindow.MyToolWindowFactory"
+                id="PostmanAgent"
+                icon="MyIcons.MyToolWindow"
+        />
     </extensions>
 
     <description>
