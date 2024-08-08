@@ -132,6 +132,7 @@ tasks {
     }
 
     publishPlugin {
+//        token.set()
         channels.set(listOf("Stable"))
         dependsOn(patchChangelog)
     }
